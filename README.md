@@ -1,2 +1,2 @@
-# main_repository
-main repository
+# ReadMe
+Solving Cart-Pole environment using Reinforcement Learning
